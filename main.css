@@ -1,3 +1,15 @@
 body {
   background-image: url("https://www.ci.camden.nj.us/wp-content/uploads/2019/03/blue-gradient-background.png");
 }
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+p {
+  color: white;
+}
