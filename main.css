@@ -1,7 +1,9 @@
+/*This changes the background to a blue gradient using an external link*/
 body {
   background-image: url("https://www.ci.camden.nj.us/wp-content/uploads/2019/03/blue-gradient-background.png");
 }
 
+/*The text is changed white to make it more visible with the background*/
 h1 {
   text-align: center;
   color: white;
