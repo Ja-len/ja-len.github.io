@@ -1,6 +1,6 @@
 /*This changes the background to a blue background*/
 body {
-  width: 70%;
+  margin: 100px;
   background-color: #44B9D8;
 }
 
