@@ -1,7 +1,7 @@
-/*This changes the background to a blue gradient using an external link*/
+/*This changes the background to a blue background*/
 body {
-  background-image: url("https://www.ci.camden.nj.us/wp-content/uploads/2019/03/blue-gradient-background.png");
-  width: 80%;
+  width: 70%;
+  background-color: #44B9D8;
 }
 
 /*The text is changed white to make it more visible with the background*/
